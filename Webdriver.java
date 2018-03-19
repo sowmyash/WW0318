@@ -131,7 +131,7 @@ public class Webdriver {
 				"/html/body/div[2]/div/div[2]/div/div/ui-view/ui-view/div/div[2]/div/div[1]/div/div[1]/result-location/div/div[1]/a/location-address/div/div/div[1]/div[2]"))
 				.getText();
 
-		System.out.println("Distance of the location  :" + text);
+		System.out.println("Distance to the location  :" + text);
 
 		System.out.println("----------------------------");
 
